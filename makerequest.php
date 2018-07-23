@@ -1,5 +1,5 @@
 <?php
-session_start();
+
 
 $url = "https://test.myfatoorah.com/pg/PayGatewayServiceV2.asmx";
 
